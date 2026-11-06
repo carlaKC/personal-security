@@ -5,8 +5,8 @@ It's a scary world out there right now, so it's important to stay safe.
 This repo contains materials for running a "personal security party", where you gather your friends to sit down and get the admin of improving your personal security in good shape.
 
 This works best with:
-- A technical facilitator who has reasonable understanding of security best practices.
-- A trusted group of friends who feel comfortable gathering and handling sensitive information in each other's presence.
+* A technical facilitator who has reasonable understanding of security best practices.
+* A trusted group of friends who feel comfortable gathering and handling sensitive information in each other's presence.
 
 This is risky business! You should be politely paranoid when you run one of these. Don't read out passwords, look at each other's screens or access each other's devices.
 
