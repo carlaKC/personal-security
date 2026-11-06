@@ -7,7 +7,7 @@ This is everything you need to know to organize a personal security party.
 1. Invite a small group of friends to hang out and improve their personal security together.
 2. Everyone gets ready beforehand using [Before the Party](participants/01-prepare.md), and brings their phone, laptop and chargers.
 3. You kick things off by explaining what you'll be doing, and going through the [rules of engagement](02-run-of-day.md#rules-of-engagement).
-4. If you're technical, you can give a short talk on the threats to look out for. If not, you can just share our resource list.
+4. If you're technical, you can give a short talk on the threats to look out for. If not, you can just share our [resource list](participants/05-resources.md).
 5. Everyone sits together for a set amount of time and works through the [party checklist](participants/02-checklist.md), focusing on the parts that are relevant to them.
 6. Everyone shares what they got done (the wins, not the passwords!), and writes down their next steps to finish their basic setup.
  

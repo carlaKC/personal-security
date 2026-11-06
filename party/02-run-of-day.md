@@ -28,7 +28,7 @@ These apply to you too. It'll be very tempting to grab someone's phone and "just
 
 ## Threats Talk (Optional)
 
-If you're technical, give a short talk on the threats to look out for. If not, share the resource list instead and give everyone a few minutes to read it, or send it around after the event.
+If you're technical, give a short talk on the threats to look out for. If not, share the [resource list](participants/05-resources.md) instead and give everyone a few minutes to read it, or send it around after the event.
 
 * [ ] Why we're here:
   * Scams used to be expensive to run against individuals, so most people got away with weak security.
@@ -73,6 +73,7 @@ If you're technical, give a short talk on the threats to look out for. If not, s
 * [ ] Ask everyone to fill in the follow-up section of their checklist, so that they know what's left to finish at home.
 * [ ] Remind everyone to take their recovery codes home, and to change any password they think someone else may have seen.
 * [ ] Share [After the Party](participants/03-take-home.md) and [Protecting Your Parents](participants/04-parents.md). Older relatives are common targets for these scams, and IMO agreeing on a family safe word is the most valuable thing people can do after the party.
+* [ ] Send around the [resource list](participants/05-resources.md), if you didn't get to it earlier.
 * [ ] If anyone's keen to run a party of their own, point them at this repo!
 * [ ] Ask what worked and what didn't, and write it down.
 

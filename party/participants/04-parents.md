@@ -14,13 +14,15 @@ The conversation takes about 15 minutes, and is best done in person.
 
 ## Common Scams
 
-- "Hi Mom/Mum, I lost my phone, this is my new number" messages.
-- A family emergency call (an arrest, an accident, stuck abroad), possibly in a cloned voice.
-- The bank's "fraud department" calling to help move your money somewhere safe.
-- Pop-ups or calls saying your computer has a virus.
-- Texts about a missed delivery or an unpaid fine, with a link.
-- Investment opportunities or online romances that eventually need money.
+* "Hi Mom/Mum, I lost my phone, this is my new number" messages.
+* A family emergency call (an arrest, an accident, stuck abroad), possibly in a cloned voice.
+* The bank's "fraud department" calling to help move your money somewhere safe.
+* Pop-ups or calls saying your computer has a virus.
+* Texts about a missed delivery or an unpaid fine, with a link.
+* Investment opportunities or online romances that eventually need money.
+
+The [resources](05-resources.md) have more on these scams, if you want to share some reading with your parents.
 
 ## While You're There
 
-If they're open to it, work through the party checklist with them as well. Let them type their own passwords, so that their secrets stay theirs. Then write down your number and their bank's number somewhere they can easily find it.
+If they're open to it, work through the [party checklist](02-checklist.md) with them as well. Let them type their own passwords, so that their secrets stay theirs. Then write down your number and their bank's number somewhere they can easily find it.

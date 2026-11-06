@@ -24,6 +24,7 @@ For your friends, in [`participants/`](participants/) (share this directory with
 | During | [Party Checklist](participants/02-checklist.md) |
 | End | [After the Party](participants/03-take-home.md) |
 | After | [Protecting Your Parents](participants/04-parents.md) |
+| Any time | [Resources](participants/05-resources.md) |
 
 ## Was It a Good Party?
 
