@@ -1,14 +1,17 @@
-# Personal Security in the Age of AI
+# Let's have a (personal security) Party!
 
-This repo contains materials for running a security party: a few hours where a group of friends sit down together and get their personal security into good shape. AI has made scams cheaper to run and harder to spot, so the basics matter more than they used to.
+It's a scary world out there right now, so it's important to stay safe.
 
-If you're running a party, start with the [instructor guide](party/README.md).
+This repo contains materials for running a "personal security party", where you gather your friends to sit down and get the admin of improving your personal security in good shape.
 
-## Approach
+This works best with:
+- A technical facilitator who has reasonable understanding of security best practices.
+- A trusted group of friends who feel comfortable gathering and handling sensitive information in each other's presence.
 
-- Short: every document fits on a single page.
-- Summaries, not walkthroughs: steps link out to official instructions, which are kept up to date by the companies that make the products.
-- Works anywhere: the core materials cover practices that apply in any country (passwords, two-factor login, updates and spotting scams). Region-specific steps (eg credit freezes in the US) will be added as extensions.
-- iPhone first, with notes for Android.
+This is risky business! You should be politely paranoid when you run one of these. Don't read out passwords, look at each other's screens or access each other's devices.
+
+I've put this together with the good faith assumption that taking the small risk of your friends compromising your information is worth offsetting the much larger risk of being targeted by another adversary because your personal security is in bad shape. Use your best judgment, it's your ass on the line in the end.
+
+If you're interested in running a party, take a look at the [facilitator guide](party/README.md).
 
 Security advice goes out of date quickly, so corrections and additions are welcome.
