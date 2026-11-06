@@ -1,6 +1,8 @@
 # Security Party: Participant Documents
 
-These are the documents for guests at a security party.
+These are the documents for participants at a security party.
+
+Getting together to do this means handling sensitive information around other people, so please read the rules of engagement in [Before the Party](01-prepare.md) before you arrive.
 
 1. [Before the Party](01-prepare.md): what to bring and what to do beforehand.
 2. [Party Checklist](02-checklist.md): what we'll work through together at the party.

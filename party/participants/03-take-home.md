@@ -2,6 +2,11 @@
 
 This page covers what to keep in mind, how to keep your security in good shape, and what to do if something goes wrong.
 
+## Tonight
+
+- Put your recovery codes and password manager recovery details somewhere safe at home.
+- If you think anyone saw a password or code during the party, change it.
+
 ## Keep in Mind
 
 - Be suspicious of urgency. Scams pressure you to act immediately: pay, click a link, share a code or keep it secret.

@@ -23,4 +23,4 @@ The conversation takes about 15 minutes, and is best done in person.
 
 ## While You're There
 
-If they're open to it, work through the party checklist with them as well. Then write down your number and their bank's number somewhere they can easily find it.
+If they're open to it, work through the party checklist with them as well. Let them type their own passwords, so that their secrets stay theirs. Then write down your number and their bank's number somewhere they can easily find it.

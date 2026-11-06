@@ -1,6 +1,6 @@
-# Instructor Notes
+# Talk Notes
 
-These are talking points for the opening talk, which should take about 15 minutes. The goal is for everyone to understand why they're doing the checklist, so that the rest of the evening can be spent doing it. Use your own words and examples.
+These are talking points for the facilitator's opening talk, which should take about 15 minutes. The goal is for everyone to understand why they're doing the checklist, so that the rest of the evening can be spent doing it. Use your own words and examples.
 
 ## What's Changed
 
@@ -26,12 +26,18 @@ These are talking points for the opening talk, which should take about 15 minute
 - Walk through the sections of the checklist.
 - The goal is a good starting state: a password manager with two-factor login, and a couple of passwords in it. Moving the rest of your passwords over is homework.
 
+## Risks and Rules of Engagement
+
+- Getting together to do this is itself a risk: we're handling passwords and recovery codes in a room full of people. That's why this is only for friends who trust each other.
+- Go through the [rules of engagement](README.md#rules-of-engagement) one by one, and check that everyone agrees to them.
+- If anyone thinks someone saw a password or code, they should change it after the party. No hard feelings.
+- Anyone can skip a step and do it at home instead.
+
 ## Avoiding Lockouts
 
 The most likely thing to go wrong today is someone locking themselves out of their own account.
 - Check recovery details and save recovery codes before turning on two-factor login.
 - Only change an important password if you can still receive codes on your phone.
-- Help each other, but don't type anyone else's passwords.
 
 ## Parents
 

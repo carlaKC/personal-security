@@ -2,6 +2,12 @@
 
 This checklist gets you to a good starting state. Work through it in order, since each section builds on the one before, and ask for help if you get stuck.
 
+Rules of engagement:
+- Don't look at other people's screens, or touch other people's devices.
+- Never say passwords or codes out loud.
+- Keep recovery codes face down, and take them home.
+- Skip any step you'd rather do at home.
+
 ## 1. Your Phone
 
 - [ ] Your phone is up to date, and automatic updates are on.
