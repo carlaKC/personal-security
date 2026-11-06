@@ -11,7 +11,7 @@ This page covers what to bring and what to do before the party. Most of the time
 ## Do Beforehand
 
 1. Check that you can sign in to your Apple ID (or Google account on Android) and your main email. If you can't, reset the password at home.
-2. Update your phone and laptop. (iPhone: Settings > General > Software Update. Android: Settings > System > Software update.)
+2. Update your phone and laptop. (iPhone: Settings > General > Software Update, you'll need iOS 18 or later for the Passwords app. Android: Settings > System > Software update.)
 3. Write a list of your most important accounts: email, bank, phone carrier and any social accounts you'd hate to lose. Names only, not passwords.
 
 ## Rules of Engagement
@@ -25,4 +25,8 @@ Sorting out your security in a room with other people means passwords and recove
 6. Lock your phone when you put it down.
 7. Anyone can skip a step and do it at home instead, no questions asked.
 
-You don't need to pick a password manager in advance, we'll do that together. And you don't need to be good with tech - that's the point of the party.
+## Password Managers
+
+We'll use the password manager that's built into your phone (Apple Passwords on iPhone, Google Password Manager on Android), so there's nothing to install. Like any product it has risks, which we'll talk through at the start. The person running the party is helping you set it up, but can't be responsible for the security of Apple or Google's products.
+
+You don't need to be good with tech - that's the point of the party.

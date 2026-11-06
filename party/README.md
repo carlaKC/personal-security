@@ -13,8 +13,8 @@ The idea is simple: one person (that's you!) gathers a group of friends to sit d
 ## What's in Here?
 
 For you:
-* [Facilitator checklist](01-checklist.md): everything to do before, during and after the party.
-* [Talk notes](02-talk-notes.md): talking points for your opening talk.
+* [Preparation guide](01-prepare.md): how to get ready, and a checklist of everything to do beforehand.
+* [Run of day](02-run-of-day.md): your checklist for the day, including the introduction talk and rules of engagement.
 
 For your friends, in [`participants/`](participants/) (share this directory with them):
 

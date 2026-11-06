@@ -24,15 +24,16 @@ Rules of engagement:
 
 ## 3. Your Password Manager
 
-- [ ] You've picked a password manager and installed it on your phone (and laptop).
-- [ ] Its main password is a long passphrase (four or more random words) that you don't use anywhere else.
-- [ ] Two-factor login is on.
-- [ ] Its recovery details are written down, to keep somewhere safe at home.
+We're using the password manager built into your phone: Apple Passwords on iPhone, or Google Password Manager on Android. It's protected by your Apple or Google account, which is why we secured that first.
+
+- [ ] You can open your password manager, and it's syncing with your Apple or Google account.
+- [ ] Your laptop can use it too (Safari or the iCloud Passwords extension for Apple, Chrome for Google), if you have one.
+- [ ] You understand the tradeoff: all your passwords are in one place, so anyone who gets into your Apple or Google account, or your unlocked phone, can get to them.
 
 ## 4. Your First Passwords
 
 - [ ] Your main email has a new, generated password saved in your password manager.
-- [ ] Two-factor login is on for your email, using an authenticator app or passkey if possible (text message codes are better than nothing).
+- [ ] Two-factor login is on for your email, using a passkey or authenticator app if possible (on iPhone, the Passwords app can hold your codes). Text message codes are better than nothing.
 - [ ] One more important account, like your bank, is saved in your password manager.
 
 ## Optional
